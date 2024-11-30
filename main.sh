@@ -1,2 +1,3 @@
 python3 sudoku.py
-#hi
+#hi and bye
+print("a")
